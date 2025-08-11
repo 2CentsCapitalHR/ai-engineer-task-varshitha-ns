@@ -1,0 +1,2 @@
+# This directory stores the ChromaDB vector database
+# The database will be created automatically when the application runs
